@@ -1,0 +1,30 @@
+/* NewShopForm.css */
+.new-shop-form {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+.new-shop-form label {
+  font-weight: bold;
+}
+.new-shop-form input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+}
+.new-shop-form button {
+  margin: 10px 5px;
+  padding: 10px 20px;
+  background-color: #0074d9;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.new-shop-form button:hover {
+  background-color: #0056b3;
+}
